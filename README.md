@@ -17,4 +17,6 @@ In this repository you can sharpen your SQL skills in five different topics:
 - Aggregation and transformation
 - Joins
 - Subqueries
-- Tables, views and CTEs 
+- Tables, views and CTEs
+
+Fork the repo and begin your journey through Sakila to extract key information from this database!
